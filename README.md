@@ -1,2 +1,3 @@
 # HelloWorld
-abcdef
+
+I can use git for personal projects
